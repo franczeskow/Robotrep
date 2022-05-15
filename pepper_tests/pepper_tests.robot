@@ -11,8 +11,8 @@ Test Teardown    common.Web test end
 *** Variables ***
 ${OLD_OCASION_NAME_FILE} =  Resources/old_ocasion.txt
 ${PRODUCT_TO_SEARCH} =  frytki
-${USERNAME_OK} =    tescicki123
-${PASSWORD_OK} =    tescicki123
+${USERNAME_OK} =
+${PASSWORD_OK} =    
 ${USERNAME_NOK} =   XXX
 ${PASSWORD_NOK} =   XXX
 
